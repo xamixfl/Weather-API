@@ -1,9 +1,9 @@
-### Weather API with Flask, Redis, and Flask-Limiter
+Weather API with Flask, Redis, and Flask-Limiter
 
 This project is a Flask-based web application that fetches weather data for a given location from the Visual Crossing Weather API. The application implements caching using Redis and rate limiting using Flask-Limiter.
 
 Solution to the roadmap.sh project Weather API https://roadmap.sh/projects/weather-api-wrapper-service
-##Features
+## Features
 
     Weather Data Fetching: Retrieves weather data for a specified location using the Visual Crossing Weather API.
     Caching with Redis: Caches the weather data in Redis to reduce API calls and improve performance.
